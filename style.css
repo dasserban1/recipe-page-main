@@ -87,7 +87,7 @@ span{
 }
 @media screen and (min-width: 960px) {
     body{
-        padding: 60px;
+        padding: 70px;
     }
     header, main{
         padding: 40px;
